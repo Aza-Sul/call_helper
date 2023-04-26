@@ -30,6 +30,8 @@ INSTALLED_APPS = [
     'common',
 
     'drf_spectacular',
+
+    'breaks',
 ]
 
 MIDDLEWARE = [
